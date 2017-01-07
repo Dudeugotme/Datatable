@@ -1,5 +1,5 @@
 {
-    "name": "chumper/datatable",
+    "name": "Dudeugotme/s1r-lara-datatable",
     "description": "This is a laravel 4 package for the server and client side of datatables at http://datatables.net/",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "jquery"
     ],
     "license": "MIT",
-    "homepage": "http://github.com/Chumper/datatable",
+    "homepage": "https://github.com/Dudeugotme/Datatable/",
     "authors": [
         {
             "name": "Nils Plaschke",
